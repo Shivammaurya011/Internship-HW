@@ -1,0 +1,82 @@
+*{
+    align-items: center;
+    font-family: Poppins;
+}
+.class1{
+    position: relative;
+}
+.branding{
+    position: absolute;
+    top: 50px;
+    width: 100%;
+    text-align: center;
+}
+.logo{
+    width: 147px;
+    height: 147px;
+    border: solid 1px #707070;
+    background-color: #ffffff;
+    margin: auto;
+    border-radius: 50%;
+    color: #eb2929;
+    font-size: 87px;
+    line-height: 147px;
+    font-family: Poppins;
+}
+.tagLine{
+    height: 51px;
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    color: #ffffff;
+    margin: auto;
+    margin-top: 20px;
+}
+.class2{
+    margin-left: 15px;
+}
+.class2 h1{
+    text-align: left;
+    font: normal normal bold 30px/46px Poppins;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+}
+.class2 p{
+    text-align: left;
+    font: normal normal normal 18px/27px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+}
+.class3{
+    position: sticky;
+    width: 370px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    display: inline-block;
+    margin: 15px;
+}
+.class3 img{
+    height: 100%;
+    width: 50%;
+    position: absolute;
+}
+.class3 h3{
+    position: relative;
+    left: 55%;
+    color: #192F60;
+}
+.class3 p{
+    position: relative;
+    left: 55%;
+    color: #8C96AB;
+}
+
+    
